@@ -9,7 +9,7 @@ Store and manage student details <br />
 Perform add, view, update, delete, and search operations <br />
 Validate user input and display formatted output <br />
 
-**Tech Stack**
+**Tech Stack** <br />
 Java <br />
 ArrayList<br />
 Scanner<br />
